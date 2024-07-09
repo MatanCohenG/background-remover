@@ -56,8 +56,6 @@ Image Background Remover is a Python-based application that allows users to uplo
 
 ![Image with Background Removed & Original Image](background-remover/GIRL_MODEL-new.jpeg)
 
-
 ## Author
 
 Written by Matan Cohen
-
