@@ -42,7 +42,7 @@ Image Background Remover is a Python-based application that allows users to uplo
     ```
 2. Follow the on-screen instructions to upload an image, remove the background, and save the modified image.
 
-## Example
+## Example - The woman in the image was created using AI. All rights reserved by Matan Cohen.
 
 ### Original Image
 
